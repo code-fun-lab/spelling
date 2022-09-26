@@ -4,5 +4,5 @@
 ### 🍕So what are you wating for just change.
 
 We need emoji ✨
-Heart:
-Gift:
+Heart:💖
+Gift:🎁
