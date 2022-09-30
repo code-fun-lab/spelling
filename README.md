@@ -5,4 +5,6 @@
 
 We need emoji ✨\
 Heart:💖\
-Gift:🎁\
+Music:🎶\
+Gift:🎁
+
