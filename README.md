@@ -3,7 +3,8 @@
 🎁This repository will always have some spelling issues to correct. 
 ### 🍕So what are you wating for just change.
 
-We need emoji ✨\
+love:😍
+happy:😺
 Heart:💖\
 Music:🎶\
 Gift:🎁\
