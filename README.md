@@ -3,11 +3,23 @@
 🎁This repository will always have some spelling issues to correct. 
 ### 🍕So what are you wating for just change.
 
-We need emoji ✨\
+
+We need emoji:🙂\
 Heart:💖\
 Music:🎶\
 Gift:🎁\
 Pizza:🍕\
+
+Winter:☃️
+
 winter:🥶 \
 Summer:🔥\
 
+Happy:😊 \
+Cry:😥 \
+Winter: 🥶\
+hey commit by gautam 🧨
+
+
+Gautam
+Dalal
