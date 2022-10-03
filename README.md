@@ -6,5 +6,7 @@
 We need emoji ✨\
 Heart:💖\
 Music:🎶\
-Gift:🎁
+Gift:🎁\
+Pizza:🍕
+
 
