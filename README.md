@@ -10,3 +10,4 @@ Gift:🎁\
 Pizza:🍕\
 winter:🥶 \
 Happy:😊 \
+Cry:😥 \
