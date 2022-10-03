@@ -4,6 +4,8 @@
 ### 🍕So what are you wating for just change.
 love:😍
 happy:😺
+
+
 We need emoji:🙂\
 Heart:💖\
 Music:🎶\
@@ -12,3 +14,14 @@ Pizza:🍕\
 Winter: 🥶
 
 
+Winter:☃️
+
+winter:🥶 \
+Happy:😊 \
+Cry:😥 \
+Winter: 🥶\
+hey commit by gautam 🧨
+
+
+Gautam
+Dalal
