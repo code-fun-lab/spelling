@@ -17,6 +17,8 @@ Winter: 🥶
 Winter:☃️
 
 winter:🥶 \
+Summer:🔥\
+
 Happy:😊 \
 Cry:😥 \
 Winter: 🥶\
