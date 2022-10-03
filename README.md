@@ -7,6 +7,7 @@ We need emoji ✨\
 Heart:💖\
 Music:🎶\
 Gift:🎁\
-Pizza:🍕
+Pizza:🍕\
+winter:🥶 \
 
 
