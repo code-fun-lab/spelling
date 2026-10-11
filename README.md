@@ -36,5 +36,8 @@ Min HUllk
 eyes 👀
 
 confused:😵‍💫
+melting: 🫠
 add new emoji
+
+
 
